@@ -16,4 +16,13 @@ public class Vista {
         printLn(" 3. Modificar ruta ");
         printLn(" 4. Salir");
     }
+
+    public void menuModificarRuta() {
+
+        printLn("\n :: MODIFICAR RUTA ::\n");
+        printLn("1. Reportar interrupcion de trafico ");
+        printLn("2. Ingresar nueva conexion");
+        printLn("3. Regresar");
+    }
+
 }

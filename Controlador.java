@@ -80,12 +80,10 @@ public class Controlador {
 
         Boolean estado = true;
         while(estado){
-            vista.printLn("\n :: MODIFICAR RUTA ::\n");
-            vista.printLn("1. Reportar interrupcion de trafico ");
-            vista.printLn("2. Ingresar nueva conexion");
-            vista.printLn("3. Regresar");
 
+            vista.menuModificarRuta();
             Integer opcion = scInt.nextInt();
+
             switch(opcion){
                 case 1:
                     
@@ -101,8 +99,6 @@ public class Controlador {
                     break;
             }
         }
-
-
     }
 
     public void generarGrafo() throws IOException {
@@ -115,7 +111,7 @@ public class Controlador {
             System.out.println("[!] No se encontro el archivo");
         }
         try {
-            
+
 
         }catch (Exception e) {
             System.out.println(e);
