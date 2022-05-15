@@ -9,4 +9,4 @@ El apartado de HDT10NetBeans contiene los Junits, sin embargo se puede utilizar 
 
 
 ## UML
-
+![UML HDT10](https://user-images.githubusercontent.com/88349168/168455058-10bdc8c6-bba0-46fd-9272-d1c907f147d7.png)
