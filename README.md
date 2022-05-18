@@ -1,6 +1,9 @@
 # HDT7
 ## Junits 
 ![image](https://user-images.githubusercontent.com/77862762/168454697-ef19697b-33bc-455b-88a0-c408ebdc3271.png)
+<br>
+![image](https://user-images.githubusercontent.com/77862762/169163684-bb211341-00d9-46e3-b2c7-1f5657021192.png)
+
 
 ### Algunas Instrucciones
 Ingrese los nombres con cuidado y exactamente como estan en el txt. <br>
